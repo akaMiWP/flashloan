@@ -1,0 +1,22 @@
+{
+  "name": "flashloan",
+  "version": "1.0.0",
+  "description": "This is a simple solidity flashloan project for the learning purpose to learn more about solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-akaMiWP:akaMiWP/flashloan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2"
+  } 
+}
